@@ -1,0 +1,25 @@
+USER PERSONA
+
+Name: Arjun Kumar
+
+Age: 21
+
+Occupation: College Student
+
+Goals:
+- Learn new skills
+- Complete projects on time
+- Get internship opportunities
+
+Frustrations:
+- Complicated applications
+- Slow websites
+- Lack of guidance
+
+Needs:
+- Simple user interface
+- Easy navigation
+- Quick access to information
+
+Conclusion:
+Arjun needs a user-friendly application that helps him achieve his goals efficiently.
