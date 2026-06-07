@@ -1,0 +1,28 @@
+UI COPYWRITING LAB
+
+Login Screen:
+Welcome Back!
+Sign in to continue.
+
+Buttons:
+- Login
+- Sign Up
+- Forgot Password?
+
+Error Messages:
+- Invalid email address.
+- Password is required.
+- Login failed. Please try again.
+
+Success Messages:
+- Account created successfully.
+- Login successful.
+- Profile updated successfully.
+
+Onboarding Screen:
+Discover amazing features.
+Stay connected anytime, anywhere.
+Get started today!
+
+Conclusion:
+Clear and simple UI copy improves user experience and helps users complete tasks efficiently.
