@@ -1,0 +1,31 @@
+MOBILE APP HEURISTIC EVALUATION
+
+App Evaluated:
+Food Delivery Mobile App
+
+1. Visibility of System Status
+The app shows order status clearly.
+
+2. Match Between System and Real World
+Simple language is used.
+
+3. User Control and Freedom
+Users can cancel orders easily.
+
+4. Consistency and Standards
+Icons and buttons are consistent.
+
+5. Error Prevention
+Confirmation appears before payment.
+
+6. Recognition Rather Than Recall
+Menus are easy to find.
+
+7. Flexibility and Efficiency
+Search feature helps users quickly.
+
+8. Aesthetic and Minimalist Design
+Interface is clean and simple.
+
+Conclusion:
+The app provides a good user experience with only minor improvements needed.
